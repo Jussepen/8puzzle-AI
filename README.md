@@ -8,11 +8,15 @@ Designed an AI program to solve the 8-way puzzle using the A* search Algorithm.
 > enter start state:7 2 4 5 0 6 8 3 1 
 
  7 | 2 | 4
+ >
  5 |   | 6
+ >
  8 | 3 | 1
 
 final State
 
   | 1 | 2
+>
 3 | 4 | 5
+>
 6 | 7 | 8
